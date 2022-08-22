@@ -16,3 +16,7 @@ Si no se cargan los resultados es posible que booking haya cambiado algo en su e
 Nota: En la carpeta tests hay algunos scripts para probar si funcionan los scrappers, la forma de ejecutarlo sería entrando por navegador a la URL, por ejemplo:
 
 http://wordpress.test/wp-content/plugins/bawp/tests/list.php
+
+**Advertencia**
+
+Ten cuidado con los scrappers si fallan es posible que se hagan muchas peticiones a booking y eso pueda llevar a un baneo de su programa de afiliados por lo que tú asumes el riesgo.
