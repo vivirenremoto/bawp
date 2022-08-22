@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-04-19 18:52+0200\n"
+"PO-Revision-Date: 2020-04-19 18:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/admin.php:18 templates/tables.php:5
+msgid "Tables"
+msgstr "Tablas"
+
+#: app/admin.php:19 templates/settings.php:10
+msgid "Settings"
+msgstr "Ajustes"
+
+#: app/admin.php:20 templates/cache.php:1
+msgid "Cache"
+msgstr "Cache"
+
+#: app/admin.php:21 templates/themes.php:1
+msgid "Themes"
+msgstr "Temas"
+
+#: app/admin.php:22 templates/support.php:5
+msgid "Support"
+msgstr "Soporte"
+
+#: app/admin.php:23 app/admin.php:37 templates/license.php:1
+msgid "License"
+msgstr "Licencia"
+
+#: app/admin.php:25 app/shortcode.php:194 templates/table_edit.php:38
+msgid "Edit table"
+msgstr "Editar tabla"
+
+#: app/admin.php:26 templates/table_edit.php:185
+msgid "Delete table"
+msgstr "Eliminar tabla"
+
+#: app/admin.php:27
+msgid "Add item to table"
+msgstr "Añadir elemento a la tabla"
+
+#: app/admin.php:28 templates/search.php:47 templates/table_edit.php:110
+msgid "Add item"
+msgstr "Añadir elemento"
+
+#: app/admin.php:29 app/admin.php:30
+msgid "Clone item"
+msgstr "Clonar elemento"
+
+#: app/admin.php:31 templates/cache.php:13
+msgid "Delete cache"
+msgstr "Eliminar cache"
+
+#: app/admin.php:32 templates/license.php:19
+msgid "Deactivate license"
+msgstr "Desactivar licencia"
+
+#: app/admin.php:56 templates/search.php:16 templates/table_edit.php:40
+#: templates/table_edit.php:80 templates/tables.php:20
+msgid "Name"
+msgstr "Nombre"
+
+#: app/admin.php:57 templates/search.php:15 templates/table_edit.php:81
+msgid "Photo"
+msgstr "Foto"
+
+#: app/admin.php:58 templates/search.php:19 templates/search.php:43
+#: templates/table_edit.php:84
+msgid "Score"
+msgstr "Puntuación"
+
+#: app/admin.php:59 templates/search.php:20 templates/search.php:44
+#: templates/table_edit.php:85
+msgid "Reviews"
+msgstr "Opiniones"
+
+#: app/admin.php:60
+msgid "Price"
+msgstr "Precio"
+
+#: app/admin.php:202
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: app/admin.php:226 app/admin.php:309
+msgid "Copy"
+msgstr "Copia"
+
+#: app/shortcode.php:12
+msgid "To be able to use the plugin you should to activate a license"
+msgstr "Para poder usar el plugin debes activar una licencia"
+
+#: app/shortcode.php:42 app/shortcode.php:85 themes/blue/table.php:125
+#: themes/fixed/table.php:125
+msgid "Show price"
+msgstr "Ver precio"
+
+#: templates/cache.php:5
+#, php-format
+msgid "There are %d total cache files in folder:"
+msgstr "Hay %d ficheros de cache en la carpeta:"
+
+#: templates/cache.php:16
+msgid "No cache files found"
+msgstr "No se han encontrado ficheros en la cache"
+
+#: templates/license.php:8
+msgid "In a test environment no license needs to be activated"
+msgstr "En entorno de prueba no hace falta activar ninguna licencia"
+
+#: templates/license.php:11
+msgid "You have already activated your license"
+msgstr "Ya has activado tu licencia"
+
+#: templates/license.php:15
+msgid "License expiration date"
+msgstr "Fecha de vencimiento de la licencia"
+
+#: templates/license.php:25
+msgid "In the client panel add the website where you want to use the plugin:"
+msgstr "En el panel de cliente añade la web donde quieres usar el plugin:"
+
+#: templates/license.php:30
+msgid "Enter the license code that has been assigned to your website:"
+msgstr "Introduce el código de la licencia que se ha asignado a tu web:"
+
+#: templates/license.php:38
+msgid "Verify license"
+msgstr "Verificar licencia"
+
+#: templates/products_add.php:9
+msgid "Add items"
+msgstr "Añadir elementos"
+
+#: templates/products_add.php:11 templates/products_add.php:65
+#, php-format
+msgid "Enter a valid %s URL"
+msgstr "Introducir una URL válida de %s"
+
+#: templates/products_add.php:14
+msgid "A specific accommodation"
+msgstr "Un alojamiento determinado"
+
+#: templates/products_add.php:16
+msgid "https://www.booking.com/hotel/es/barcelona-1882-barcelona1.html"
+msgstr "https://www.booking.com/hotel/es/barcelona-1882-barcelona1.es.html"
+
+#: templates/products_add.php:19
+msgid "Result list"
+msgstr "Lista de resultados"
+
+#: templates/products_add.php:21
+msgid ""
+"https://www.booking.com/searchresults.html?aid=1610682&label=barcelona-"
+"Gd5TWXVUjLMSEJdX1ttzwQS341843104301..."
+msgstr ""
+"https://www.booking.com/searchresults.es.html?aid=1610682&label=barcelona-"
+"Gd5TWXVUjLMSEJdX1ttzwQS341843104301..."
+
+#: templates/products_add.php:27
+msgid "Search"
+msgstr "Buscar"
+
+#: templates/products_add.php:29
+msgid "Back"
+msgstr "Volver"
+
+#: templates/products_add.php:46
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: templates/search.php:6
+msgid "Add all items"
+msgstr "Añadir todos los elementos"
+
+#: templates/search.php:17 templates/search.php:41 templates/table_edit.php:82
+msgid "Stars"
+msgstr "Estrellas"
+
+#: templates/search.php:18 templates/search.php:42 templates/table_edit.php:83
+msgid "Rating"
+msgstr "Valoración"
+
+#: templates/search.php:21 templates/tables.php:23
+msgid "Action"
+msgstr "Acción"
+
+#: templates/search.php:60 templates/themes.php:44
+msgid "No results found"
+msgstr "No se han encontrado resultados"
+
+#: templates/settings.php:6 templates/table_edit.php:29
+msgid "Changes saved successfully"
+msgstr "Cambios guardados correctamente"
+
+#: templates/settings.php:18
+msgid "Affiliate site ID (AID)"
+msgstr "ID de afiliado (AID)"
+
+#: templates/settings.php:19
+msgid ""
+"You can find it on: Booking Affiliates &gt; Yout account &gt; Other "
+"affiliates"
+msgstr ""
+"Lo puedes encontrar en: Afiliados Booking &gt; Yout account &gt; Other "
+"affiliates"
+
+#: templates/settings.php:29
+msgid "Load content via AJAX"
+msgstr "Cargar contenido por AJAX"
+
+#: templates/settings.php:34
+msgid "Days to expire the cache (By default 31 days)"
+msgstr "Días para expirar la cache (Por defecto 31 días)"
+
+#: templates/settings.php:40
+msgid "AJAX URL"
+msgstr "URL AJAX"
+
+#: templates/settings.php:47
+msgid "Proxies"
+msgstr "Proxies"
+
+#: templates/settings.php:48
+msgid ""
+"We recommend <a href=\"http://bit.ly/2Z6jxp5\" target=\"_blank\">proxy-hub."
+"com</a>"
+msgstr ""
+"Recomendamos <a href=\"http://bit.ly/2Z6jxp5\" target=\"_blank\">proxy-hub."
+"com</a>"
+
+#: templates/settings.php:54
+msgid "Format"
+msgstr "Formato"
+
+#: templates/support.php:8
+msgid ""
+"https://vivirenremoto.freshdesk.com/support/solutions/folders/61000016737"
+msgstr ""
+"https://vivirenremoto.freshdesk.com/support/solutions/folders/61000016706"
+
+#: templates/support.php:8
+msgid "Questions"
+msgstr "Preguntas frecuentes"
+
+#: templates/support.php:12
+msgid "Contact"
+msgstr "Contacto"
+
+#: templates/support.php:16
+msgid "Get more awesome plugins"
+msgstr "Descargar plugins geniales"
+
+#: templates/support.php:20 templates/themes.php:15
+msgid "Version"
+msgstr "Versión"
+
+#: templates/table_edit.php:2 templates/table_edit.php:92
+msgid "Custom text"
+msgstr "Texto personalizado"
+
+#: templates/table_edit.php:3
+msgid "Custom button text"
+msgstr "Botón personalizado"
+
+#: templates/table_edit.php:4
+msgid "Custom stars"
+msgstr "Estrellas personalizadas"
+
+#: templates/table_edit.php:5
+msgid "Yes"
+msgstr "Sí"
+
+#: templates/table_edit.php:6
+msgid "No"
+msgstr "No"
+
+#: templates/table_edit.php:35
+msgid ""
+"We recommend saving the changes every time you make a change in the table"
+msgstr ""
+"Recomendamos guardar los cambios cada vez que hagas un cambio en la tabla"
+
+#: templates/table_edit.php:42 templates/table_edit.php:177
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: templates/table_edit.php:43
+msgid "Back to tables"
+msgstr "Volver a las tablas"
+
+#: templates/table_edit.php:54
+msgid "Add rows"
+msgstr "Añadir filas"
+
+#: templates/table_edit.php:58
+msgid "Add new row"
+msgstr "Añadir nueva fila"
+
+#: templates/table_edit.php:61 templates/table_edit.php:116
+msgid "Change item order"
+msgstr "Cambiar el orden"
+
+#: templates/table_edit.php:62 templates/table_edit.php:117
+msgid "Save item order"
+msgstr "Guardar orden de los elementos"
+
+#: templates/table_edit.php:75
+msgid "Write label or leave it empty"
+msgstr "Escribir etiqueta o dejar vacío"
+
+#: templates/table_edit.php:79
+msgid "Type..."
+msgstr "Tipo..."
+
+#: templates/table_edit.php:86
+msgid "Description"
+msgstr "Descripción"
+
+#: templates/table_edit.php:87
+msgid "Book now button"
+msgstr "Botón Reservar"
+
+#: templates/table_edit.php:88
+msgid "Show price button"
+msgstr "Botón Ver precio"
+
+#: templates/table_edit.php:89
+msgid "Show reviews button"
+msgstr "Botón Ver opiniones"
+
+#: templates/table_edit.php:90
+msgid "Custom button"
+msgstr "Botón personalizado"
+
+#: templates/table_edit.php:91
+msgid "Yes/No"
+msgstr "Sí/No"
+
+#: templates/table_edit.php:96 templates/table_edit.php:165
+#: templates/tables.php:49
+msgid "Delete"
+msgstr "Eliminar"
+
+#: templates/table_edit.php:154
+msgid "Featured label"
+msgstr "Etiqueta destacado"
+
+#: templates/table_edit.php:158
+msgid "Featured color"
+msgstr "Color destacado"
+
+#: templates/tables.php:8
+msgid "Table's name"
+msgstr "Nombre de la tabla"
+
+#: templates/tables.php:9
+msgid "Create"
+msgstr "Crear"
+
+#: templates/tables.php:21 templates/tables.php:38
+msgid "Items"
+msgstr "Elementos"
+
+#: templates/tables.php:22
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: templates/tables.php:45
+msgid "Edit"
+msgstr "Editar"
+
+#: templates/tables.php:47
+msgid "Clone"
+msgstr "Clonar"
+
+#: templates/tables.php:62
+msgid "Clone table"
+msgstr "Clonar tabla"
+
+#: templates/tables.php:68
+msgid "Only structure"
+msgstr "Sólo estructura"
+
+#: templates/tables.php:72
+msgid "Structure + Data"
+msgstr "Estructura + Datos"
+
+#: templates/tables.php:76
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/themes.php:6
+msgid "Get more themes"
+msgstr "Descargar más temas"
+
+#: templates/themes.php:14
+msgid "Title"
+msgstr "Título"
+
+#: templates/themes.php:16
+msgid "Authors"
+msgstr "Autores"
+
+#: themes/blue/single.php:26 themes/fixed/single.php:22
+msgid "reviews"
+msgstr "opiniones"
+
+#: themes/blue/table.php:121 themes/fixed/table.php:121
+msgid "Book now"
+msgstr "Reservar"
+
+#: themes/blue/table.php:129 themes/fixed/table.php:129
+msgid "Show reviews"
+msgstr "Ver opiniones"
+
+#~ msgid "WEB_URL_HOTEL"
+#~ msgstr "https://www.booking.com/hotel/es/barcelona-1882-barcelona1.es.html"
+
+#~ msgid "WEB_URL_SEARCH"
+#~ msgstr ""
+#~ "https://www.booking.com/searchresults.es.html?"
+#~ "aid=1610682&label=barcelona-Gd5TWXVUjLMSEJdX1ttzwQS341843104301..."
+
+#~ msgid "Elements"
+#~ msgstr "Elementos"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentación"
+
+#~ msgid "Download styles"
+#~ msgstr "Descargar estilos"
+
+#~ msgid "Feedback"
+#~ msgstr "Feedback"
+
+#~ msgid "Errors"
+#~ msgstr "Errores"
+
+#~ msgid "Public Ideas"
+#~ msgstr "Ideas públicas"
+
+#~ msgid "Affiliates"
+#~ msgstr "Afiliados"
+
+#~ msgid "You have to enter a booking.com URL"
+#~ msgstr "Tienes que introducir una URL de booking.com"

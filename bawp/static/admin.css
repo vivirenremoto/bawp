@@ -1,0 +1,7 @@
+table.bawp_table_admin span.show_mobile{display:none;}
+
+@media only screen and (max-width: 480px){
+  table.bawp_table_admin thead{display:none;}
+  table.bawp_table_admin span.show_mobile{display:inline;}
+  .bawp_block, table.bawp_table_admin .button{width:100%;text-align:center;display:block;margin:10px 0;} 
+}
