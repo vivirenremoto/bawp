@@ -6,9 +6,9 @@ Importante: Este plugin ya no tiene soporte
 
 https://vivirenremoto.freshdesk.com/support/solutions/folders/61000016706
 
-**Si el scarapper deja de funcionar**
+**Problemas**
 
-Es posible que booking haya cambiado algo en su estructura HTML, en ese caso tienes que revisar el scrapper
+Si no se cargan los resultados es posible que booking haya cambiado algo en su estructura HTML, en ese caso tendrás que revisar los scrapper:
 
 - List.php esto scrapea un listado de resultados
 - single.php esto scrapea una ficha de alojamiento
