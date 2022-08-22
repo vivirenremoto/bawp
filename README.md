@@ -1,6 +1,6 @@
 # bawp
 
-Este plugin ya no tiene soporte
+Importante: Este plugin ya no tiene soporte
 
 **Documentación**
 
